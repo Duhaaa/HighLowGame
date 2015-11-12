@@ -1,0 +1,9 @@
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\bin\Debug\HighLowGame.exe.config
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\bin\Debug\HighLowGame.exe
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\bin\Debug\HighLowGame.pdb
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\obj\Debug\HighLowGame.csprojResolveAssemblyReference.cache
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\obj\Debug\HighLowGame.Form1.resources
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\obj\Debug\HighLowGame.Properties.Resources.resources
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\obj\Debug\HighLowGame.csproj.GenerateResource.Cache
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\obj\Debug\HighLowGame.exe
+c:\users\duha\documents\visual studio 2012\Projects\HighLowGame\HighLowGame\obj\Debug\HighLowGame.pdb
